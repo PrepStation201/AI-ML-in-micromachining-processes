@@ -27,24 +27,26 @@ This project presents an end-to-end machine learning pipeline to predict and opt
 
 ---
 ## 📂 Repository Structure
+The project is organized into a clean and modular structure for clarity and scalability.  
 
-The project is organized into a clean and modular structure for clarity and scalability.
+```bash
 surface-roughness-optimizer/
 ├── artifacts/
-│ ├── best_model.pkl
-│ └── scaler.pkl
+│   ├── best_model.pkl
+│   └── scaler.pkl
 ├── data/
-│ ├── Exp1.csv
-│ ├── Exp2.csv
-│ └── Prep.csv
+│   ├── Exp1.csv
+│   ├── Exp2.csv
+│   └── Prep.csv
 ├── notebooks/
-│ └── surface_roughness_estimation.ipynb
+│   └── surface_roughness_estimation.ipynb
 ├── graphs/
-│ └── surface_roughness.png
+│   └── surface_roughness.png
 ├── .gitignore
 ├── app.py
 ├── README.md
 └── requirements.txt
+
 
 ---
 ## ⚙️ Installation & Setup
