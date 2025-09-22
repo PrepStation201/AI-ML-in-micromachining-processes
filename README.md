@@ -48,7 +48,7 @@ surface-roughness-optimizer/
 └── requirements.txt
 
 
----
+
 ## ⚙️ Installation & Setup
 
 To run this project locally, please follow these steps.
@@ -115,29 +115,6 @@ This project presents an end-to-end machine learning pipeline to predict and opt
 * **Optimization:** SciPy
 * **Web Framework:** Streamlit
 * **Data Visualization:** Matplotlib, Seaborn
-
----
-## 📂 Repository Structure
-
-The project is organized into a clean and modular structure for clarity and scalability.
-
-surface-roughness-optimizer/
-├── artifacts/
-│   ├── best_model.pkl
-│   └── scaler.pkl
-│
-├── data/
-│   ├── Exp1.csv
-│   ├── Exp2.csv
-│   └── Prep.csv
-│
-├── notebooks/
-│   └── surface_roughness_estimation.ipynb
-│
-├── .gitignore
-├── app.py
-├── README.md
-└── requirements.txt
 
 ---
 ## ⚙️ Installation & Setup
