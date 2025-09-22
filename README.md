@@ -56,7 +56,7 @@ To run this project locally, please follow these steps.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/surface-roughness-optimizer.git](https://github.com/your-username/surface-roughness-optimizer.git)
+git clone [https://github.com/PrepStation201/surface-roughness-optimizer.git](https://github.com/PrepStation201/AI-ML-in-micromachining-processes.git)
 cd surface-roughness-optimizer
 ```
 
