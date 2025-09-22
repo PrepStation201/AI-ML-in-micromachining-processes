@@ -2,8 +2,8 @@
 
 This project presents an end-to-end machine learning pipeline to predict and optimize surface roughness ($Ra$) in micromachining processes. A predictive model is trained on experimental data, which is then used by a genetic algorithm to find the optimal machining parameters to achieve the smoothest possible surface finish. The entire solution is deployed as an interactive web application using Streamlit.
 
-![Streamlit App Demo](https://i.imgur.com/your_app_screenshot.png)
-*(**Note:** You should replace the link above with a screenshot or a GIF of your running application.)*
+![surface_roughness.png)
+
 
 ---
 ## 🚀 Key Features
